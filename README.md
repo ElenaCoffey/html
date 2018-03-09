@@ -1,4 +1,8 @@
 # HTML
+Hi,
+
+This is a forked document for learning puposes to use GitHub feature "fork".
+
 
 [![Build Status](https://travis-ci.org/w3c/html.svg?branch=master)](https://travis-ci.org/w3c/html)
 
